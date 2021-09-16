@@ -14,4 +14,4 @@ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-oc
 npm install
 npm install fluent-ffmpeg
 npm install imgbb-uploader
-npm start
+node main.js
